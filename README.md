@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/128632436-0aba1ff9-631a-4478-b543-69fcad2e6bb8.png" align="left" height="150px" width="150px">
+    <h1># Crie seu gerenciador de salas de reuniões com Java e Angular</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Desenvolver uma API com Spring Boot para gerenciar nossas salas de reuniões, utilizaremos o Spring Data par persistência de dados e o banco in-memory H2. E o Front End que irá consumir essa API será em SPA escrit em Angular.
     </p>
 </p>      
 
